@@ -18,20 +18,12 @@ This is a simple GUI-based Hangman game built using Python and Tkinter. The game
 2. Run the game:
 
 
-Skills Used
-This section highlights what you practiced or demonstrated in the project — great for:
+ 🧠 Skills Used
+- Object-Oriented Programming (OOP) in Python
+- GUI design with Tkinter
+- Game logic and state management
 
-Showing your strengths to recruiters or teammates
-
-Making it easier for others to understand what the project teaches
-
-Enhancing your own GitHub portfolio
-
-Future Ideas
-This section shows that:
-
-You think ahead and plan improvements
-
-You're open to feedback or collaboration
-
-You understand how to scale simple projects
+ 💡 Future Ideas
+- Add difficulty levels (easy, medium, hard)
+- Allow full word guesses (not just one letter)
+- Use external word lists or APIs for more variety
