@@ -27,3 +27,9 @@ This is a simple GUI-based Hangman game built using Python and Tkinter. The game
 - Add difficulty levels (easy, medium, hard)
 - Allow full word guesses (not just one letter)
 - Use external word lists or APIs for more variety
+
+![img alt](https://github.com/thebestproha/Hangman/blob/35a8e8a3f7cce2b778142686f4727b40b155fc17/Screenshot%202025-06-27%20223819.png)
+![img alt](https://github.com/thebestproha/Hangman/blob/35a8e8a3f7cce2b778142686f4727b40b155fc17/Screenshot%202025-06-27%20223850.png)
+
+
+
