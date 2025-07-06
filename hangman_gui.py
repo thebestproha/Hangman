@@ -12,7 +12,7 @@ class HangmanGame:
         
         self.root = tk.Tk()
         self.root.title("Hangman Game")
-        self.root.geometry("400x500")
+        self.root.geometry("450x540")
         self.root.configure(bg='#2c3e50')
         
         self.setup_ui()
