@@ -69,9 +69,9 @@ class HangmanGame:
         if self.wrong >= 4:  # right arm
             self.canvas.create_line(130, 80, 150, 100, width=2, fill='#e74c3c')
         if self.wrong >= 5:  # left leg
-            self.canvas.create_line(130, 120, 110, 150, width=2, fill='#e74c3c')
+            self.canvas.create_line(130, 120, 110, 150, width=4, fill='#e74c3c')
         if self.wrong >= 6:  # right leg
-            self.canvas.create_line(130, 120, 150, 150, width=2, fill='#e74c3c')
+            self.canvas.create_line(130, 120, 150, 150, width=4, fill='#e74c3c')
     
     def get_display_word(self):
         return ' '.join([letter if letter in self.guessed else '_' for letter in self.word])
